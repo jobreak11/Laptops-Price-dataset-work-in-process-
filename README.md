@@ -8,7 +8,7 @@ Dataset credit: https://www.kaggle.com/datasets/juanmerinobermejo/laptops-price-
 
 # What you can do to this dataset or codes?
 ------------------------
-The important thing for coding is repeatable code. I discovered many sources use the same function because they chose the same source for their projects.
+The important thing for coding is repeatable code. I discovered many sources use the same function because they chose the same source for their projects. Data roles quitely require the same output that they expected from our coding, so we do not need to code like other languages. (Just data cleaning, data mining, data visualization)
 That's why these sources will be beneficial for anyone who starting coding for the first time and wants to do data roles.
 
 # In my opinion since I studied different programming languages (no need to read)
