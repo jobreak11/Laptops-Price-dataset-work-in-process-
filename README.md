@@ -14,7 +14,7 @@ That's why these sources will be beneficial for anyone who starting coding for t
 # In my opinion since I studied different programming languages (no need to read)
 ------------------------
 Since then, I learned other languages like C, R, and SQL. I feel like Python is the easiest language right now.
-As you can see, many job roles require Python skills. I think if you want to be good at data roles you do not need to study other languages like C or anything that is not related to. (not included SQL or R. That's job requirement)
+As you can see, many job roles require Python skills. I think if you want to be good at data roles you do not need to study other languages like C or anything that is not related to. (Except SQL or R. That's a job requirement)
 However, If you learn more languages, you will have a solid understanding of programming way more than learning only one language.
 
 ### If you want to understand more about what programming is, my c projects might be your answer.
