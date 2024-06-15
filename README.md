@@ -1,9 +1,11 @@
 # Details && sources
 ------------------------
-These are about dataset from kaggle, and code set that I've coded by myself.
-Thanks to kaggle source that I can used dataset for making data mining. 
-Data tranformation is important for data roles, so I prepared some codes that might be helpful for anyone who want to learn python coding.
-However, If you understand how each function works. You can understand how to clean, transfrom, even data predict.
+These are about dataset from Kaggle, and a code set I've coded by myself.
+Thanks to Kaggle source I can use datasets for making data mining. 
+Data transformation is important for data roles, so I prepared some codes that might be helpful for anyone who wants to learn Python coding.
+However, If you understand how each function works, you can understand how to clean, transfer, and predict data.
 
-Currently, this project is work in process.
-/*Readme will be update after this project is done*/
+Currently, this project is a work in process.
+/*Readme will be updated after this project is done*/
+
+
