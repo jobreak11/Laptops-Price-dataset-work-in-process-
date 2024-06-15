@@ -16,7 +16,7 @@ Since then, I learned other languages like C, R, and SQL. I feel like Python is 
 As you can see, many job roles require Python skills. I think if you want to be good at data roles you do not need to study other languages like C or anything that is not related to.
 However, If you learn more languages, you will have a solid understanding of programming way more than learning only one language.
 
-### If you want to understand more about what programming is, my c projects might be your answer.\
+### If you want to understand more about what programming is, my c projects might be your answer.
 Currently, this project is a work in process.\
 /*Readme will be updated after this project is done*/
 
